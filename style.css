@@ -1,0 +1,58 @@
+.gallery img{
+    width: 100%;
+}
+
+h2{
+    color: darkblue;
+    font-family: cursive;
+    font-size: 80px;
+}
+
+#menu{
+    background-color: aqua;
+    height: 40px;
+    width: 100%;
+    padding-top: 12px;
+}
+
+p{
+    color: black;
+    font-family: cursive;
+    font-size: 30px;
+    color: aquamarine;
+}
+
+#menu a{
+    font-family: helvetica,cursive;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight:800px;
+    
+    padding-left: 20px;
+    padding-bottom: 20px;
+ 
+}
+
+#meanu a:hover{
+    color: 5077bd;
+}
+table{
+    font-family: cursive;
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: navy;
+}
+
+th{
+    font-weight: 800;
+    background-color: navy;
+    color: navy;
+    font-size: 30px
+}
+
+td{
+    font-weight: 400;
+    color: black;
+    background-color: bisque;
+    font-size: 30px;
+}
